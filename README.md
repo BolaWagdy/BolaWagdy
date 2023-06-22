@@ -3,9 +3,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BolaWagdy.BolaWagdy&"  />
-</div>
+[![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Number%20of%20views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ###
 
