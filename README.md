@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="1100" height="500" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hello, I'm Bola ♥</h1>
 <h4 align="center">Student at the Faculty of Computer Science</h4>
 
