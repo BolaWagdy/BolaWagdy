@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hello, I'm Bola ♥</h1>
-<h4 align="center">Student at the Faculty of Computer Science</h4>
+<h4 align="center">Student at the Faculty of Computer Science-October 6 University ( O6U )</h4>
 
 ###
 
