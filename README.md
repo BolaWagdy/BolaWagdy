@@ -21,7 +21,7 @@
 
 ###
 
-- 🌱 learning--> **Front-end(ReactJs), Back-end(PHP-MySQL-Laravel)**
+- 🌱 learning--> **Front-end and Back-end**
 
 - 📫 Send me--> **bolawagdy06@gmail.com**
 
