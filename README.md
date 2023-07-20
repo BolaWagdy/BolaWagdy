@@ -1,6 +1,6 @@
 <!--First photo-->
 <div align="center">
-    <img height="250" src="https://camo.githubusercontent.com/b47506a81e73794a1fba84e43639b0adf7b7f0f69b2b434717c34170cda2dda3/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d63393965333533663736316433313833323263383533633033656263663231622e676966"  />
+    <img height="250" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
   </div>
 
   <!--Welcome svg-->
@@ -12,10 +12,10 @@
   [![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Number%20of%20views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
   <!--Second photo-->
-  <img align="right" height="380" src="https://five.sh/files/gif/colorful/5c956514e7612d430fdf2f3bb19c3438_7119e6dd_500.gif"  />
+  <img align="right" height="350" src="https://five.sh/files/gif/colorful/5c956514e7612d430fdf2f3bb19c3438_7119e6dd_500.gif" />
   
   ###
-  <br>
+  
   <h3 align="left">👩‍💻  About Me</h3>
   
   ###
