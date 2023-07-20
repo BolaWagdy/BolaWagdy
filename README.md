@@ -12,7 +12,7 @@
   [![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Number%20of%20views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
   <!--Second photo-->
-  <img align="right" height="290" src="https://thumbs.gfycat.com/ForcefulCrazyCrab-max-1mb.gif"  />
+  <img align="right" height="200" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  />
   
   ###
   
