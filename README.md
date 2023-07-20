@@ -13,9 +13,9 @@
   
   <!--Second photo-->
   <img align="right" height="380" src="https://five.sh/files/gif/colorful/5c956514e7612d430fdf2f3bb19c3438_7119e6dd_500.gif"  />
-  <br>
-
+  
   ###
+  <br>
   <h3 align="left">👩‍💻  About Me</h3>
   
   ###
