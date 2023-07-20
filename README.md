@@ -1,6 +1,6 @@
 <!--First photo-->
 <div align="center">
-    <img height="250" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+    <img height="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
   </div>
 
   <!--Welcome svg-->
@@ -12,7 +12,7 @@
   [![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Number%20of%20views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
   <!--Second photo-->
-  <img align="right" height="350" src="https://five.sh/files/gif/colorful/5c956514e7612d430fdf2f3bb19c3438_7119e6dd_500.gif" />
+  <img align="right" height="380" src="https://five.sh/files/gif/colorful/5c956514e7612d430fdf2f3bb19c3438_7119e6dd_500.gif" />
   
   ###
   
