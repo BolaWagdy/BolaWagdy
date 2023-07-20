@@ -12,8 +12,9 @@
   [![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Number%20of%20views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
   <!--Second photo-->
-  <img align="right" height="200" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  />
-  
+  <img align="right" height="250" src="https://five.sh/files/gif/colorful/5c956514e7612d430fdf2f3bb19c3438_7119e6dd_500.gif"  />
+
+  ###
   ###
   
   <h3 align="left">👩‍💻  About Me</h3>
