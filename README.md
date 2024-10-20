@@ -1,31 +1,21 @@
-<!--First photo-->
+
 <div align="center">
-    <img height="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+    <img src="https://camo.githubusercontent.com/bf4ccee202cf225797261bd960cbbe2092b5a0572cde61023e17bf526db04e6e/68747470733a2f2f7777772e6575726f6469676974616c73797374656d732e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f536f6674776172652d456e67696e656572696e672e676966"  />
   </div>
 
-  <!--Welcome svg-->
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=25&duration=3000&pause=1000&color=4FF7D9&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bola+%F0%9F%91%8B...;Full+stack+developer+(+React+JS+-+PHP+)...;It's+awesome+to+have+you+here+%E2%9D%A4%EF%B8%8F...;Go+check+my+github+now+%F0%9F%98%8A" alt="Typing SVG" /></a>
   </h1>
 
-  <!--Visit counter-->
   [![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Number%20of%20views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
-  <!--Second photo-->
-  <img align="right" height="380" src="https://five.sh/files/gif/colorful/5c956514e7612d430fdf2f3bb19c3438_7119e6dd_500.gif" />
+  <!-- ###
+  <h2 align="left">👩‍💻  About Me</h2>
   
-  ###
+  - 🌱 CS-Student | Front End | Back End | DevOps@DEPI-EUI.  -->
   
-  <h3 align="left">👩‍💻  About Me</h3>
-  
-  ###
-  
-  - 🌱 learning--> **Front-end and Back-end**
-  
-  - 📫 Send me--> **bolawagdy06@gmail.com**
-  
-  <h3 align="left">🧩   Social media</h3>
-  
+  <h2 align="left">🧩   Social media</h2>
+
   ###
   
   <div align="left">
@@ -38,13 +28,16 @@
     <a href="http://Discordapp.com/users/621364857697992745" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
     </a>
+  <a href="mailto:bolawagdy06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bola-wagdy-1b00b3271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
   </div>
   
   ###
-  
-  <h3 align="left">🛠   Languages and Tools</h3>
-  
-  ###
+  <h2 align="left">🛠   Languages and Tools</h2>
   
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
@@ -52,6 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplusplus logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
     <img width="12" />
@@ -73,28 +67,46 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  </div>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
+<div align="left">
+
   ###
-  
-  <h3 align="left">🔥   My Stats </h3>
-  
-  ###
-  
+  <h2 align="left">🔥   Streaks </h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BolaWagdy&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
     <img src="https://streak-stats.demolab.com?user=BolaWagdy&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
   </div>
-  
+
   ###
-  </div>
   
   ## 🏆 GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=BolaWagdy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
-  ### ✍️ Random Dev Quote
+  ## ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/BolaWagdy/BolaWagdy/output/snake.svg" alt="Snake animation" />
