@@ -4,7 +4,7 @@
   </div>
 
   <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=25&duration=3000&pause=1000&color=4FF7D9&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bola+%F0%9F%91%8B...;It's+awesome+to+have+you+here+%E2%9D%A4%EF%B8%8F...;Go+check+my+github+now+%F0%9F%98%8A" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=25&duration=3000&pause=1000&color=4FF7D9&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bola+%F0%9F%91%8B...;It's+awesome+to+have+you+here+%E2%9D%A4%EF%B8%8F...;Go+check+my+github+now!" alt="Typing SVG" /></a>
   </h1>
 
   [![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Number%20of%20views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
