@@ -19,16 +19,16 @@
   ###
   
   <div align="left">
-    <a href="https://www.facebook.com/bola.wagdy.79/?mibextid=ZbWKwL" target="_blank">
+    <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
     </a>
-    <a href="https://www.instagram.com/_bola_wagdy_" target="_blank">
+    <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
     </a>
-    <a href="http://Discordapp.com/users/621364857697992745" target="_blank">
+    <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
     </a>
-  <a href="mailto:bolawagdy06@gmail.com" target="_blank">
+  <a href="mailto:bolawagdy05@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/bola-wagdy-1b00b3271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
