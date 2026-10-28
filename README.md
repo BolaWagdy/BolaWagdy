@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=25&duration=3000&pause=1000&color=4FF7D9&center=true&vCenter=true&width=435&lines=Hi,+I'm+Bola+...;It's+awesome+to+have+you+here+❤️...;Go+check+my+GitHub+now!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=25&duration=3000&pause=1000&color=4FF7D9&center=true&vCenter=true&width=435&lines=Hi,+I'm+Bola+...;It's+awesome+to+have+you+here+...❤️;Go+check+my+GitHub+now!" />
 </h1>
 
 <div align="center">
@@ -14,13 +14,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=BolaWagdy&color=blueviolet&style=flat-square)
-
-</div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=BolaWagdy&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -110,8 +104,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="60" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  /> -->
 </div>
 
 ---
