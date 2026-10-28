@@ -11,7 +11,6 @@
 ### DevOps Engineer  | Cloud Engineer | System Administrator | Computer Science Graduate Specialized in Network Technology
 
 </div>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BolaWagdy)
 
 <div align="center">
 
