@@ -14,6 +14,12 @@
 
 <div align="center">
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
+</div>
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=BolaWagdy&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
